@@ -1,7 +1,1 @@
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*.ipynb
-*/notebooks/*.shx
-*/notebooks/*.shp
-*/notebooks/*.prj
-*/notebooks/*.dbf
-*/notebooks/*.cpg
+*.cpg
